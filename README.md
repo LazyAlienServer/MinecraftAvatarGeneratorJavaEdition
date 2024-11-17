@@ -1,0 +1,2 @@
+# MinecraftAvatarGeneratorJavaEdition
+根据tanh python版本头像生成器改写的java版本
